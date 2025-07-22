@@ -12,11 +12,7 @@ relay.value(0)					# Inicia com rele desligado (FAN OFF)
 
 # WiFi settings e BLYNK token config
 SSID = "SOULARGO"
-PASS = "soulargo24"
-# SSID = "NOS-99A6"
-# PASS = "HPTG427X"
-# SSID = "rede_pesca"
-# PASS = "fr33debi"
+PASS = "*pass do largo*"
 BLYNK_AUTH_TOKEN = "WLtNFMUMY3TrhNk_lShbBNQ8M3mogtuu"
 
 
