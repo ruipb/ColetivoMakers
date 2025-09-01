@@ -1,1 +1,2 @@
-
+1. Desenhar e imprimir caixa só para o PIR (ter atenção espaço para as ligações a 24 V )
+2. Ver o adaptador ficha in DC out 2 saidas fios (está na prateleira do solar)
