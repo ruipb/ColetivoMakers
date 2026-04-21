@@ -1,1 +1,1 @@
-Projectos de sensores a instalar na futura biblioteca dos jardins do Bombarda
+Projectos de sensores a instalar na biblioteca dos jardins do Bombarda
